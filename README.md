@@ -13,10 +13,15 @@ The rationale behind it is that even without gold labels, the local manifold may
 
 
 
-<img src="./fig/FR.png" alt="overview" style="width:70%; display:block; margin:0 auto;">
 
-<img src="./fig/grad.gif" alt="overview" style="width:70%; display:block; margin:0 auto;">
 
+<div align="center">
+<img src="./fig/FR.png" alt="overview" style="width:50%; display:block; margin:0 auto;">
+</div>
+
+<div align="center">
+<img src="./fig/grad.gif" alt="overview" style="width:50%; display:block; margin:0 auto;">
+</div>
 
 
 ---
